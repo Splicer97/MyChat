@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756974401580",
+    "firebase_url": "https://mychat-4cdfb-default-rtdb.firebaseio.com",
+    "project_id": "mychat-4cdfb",
+    "storage_bucket": "mychat-4cdfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756974401580:android:784293d66c98d6bdbb7989",
+        "android_client_info": {
+          "package_name": "com.splicer.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756974401580-ti5qffk8divkb8k08m31e7feb0no3p9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTbXOgecsOrvqJBZosdxID1nUHrMxbTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756974401580-ti5qffk8divkb8k08m31e7feb0no3p9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
