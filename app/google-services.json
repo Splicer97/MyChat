@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "756974401580-n7gi9sdei111bc2dsv4juuacm130b2m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.splicer.mychat",
+            "certificate_hash": "318b2de3773da3d0909468bba8a81fdaef47899e"
+          }
+        },
+        {
           "client_id": "756974401580-ti5qffk8divkb8k08m31e7feb0no3p9h.apps.googleusercontent.com",
           "client_type": 3
         }
